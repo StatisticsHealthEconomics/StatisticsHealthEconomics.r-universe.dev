@@ -1,3 +1,6 @@
 [
-  "statisticshealtheconomics/outstandR"
+    {
+        "package": "outstandR",
+        "url": "https://github.com/statisticshealtheconomics/outstandR"
+    }
 ]
